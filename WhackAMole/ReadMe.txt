@@ -1,0 +1,1 @@
+Find executable in dist\WhackAMole.exe
